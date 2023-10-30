@@ -26,7 +26,7 @@
             // array.remove(i);
             delete array[i];
           } else {
-            document.write("Element not found"); 
+            document.write("Element not found"</br><br>); 
           }
         }
       }
